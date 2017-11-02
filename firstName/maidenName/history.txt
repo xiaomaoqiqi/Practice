@@ -1,0 +1,217 @@
+    1  $pwd
+    2  pwd
+    3  cd/home
+    4  cd
+    5  mkdir home
+    6  mkdir home/ubuntu
+    7  ls
+    8  cd home
+    9  ls
+   10  cd home
+   11  cd../
+   12  cd./
+   13  cd../
+   14  cd home
+   15  cd/
+   16  cd../
+   17  ls
+   18  cd ubuntu
+   19  ls
+   20  mkdir workplace
+   21  ls
+   22  cd../
+   23  cd ../
+   24  ls
+   25  cd workspace
+   26  ls
+   27  cd home
+   28  cd ../
+   29  ls
+   30  cd lib
+   31  ls
+   32  cd apache2
+   33  ls
+   34  cd run
+   35  ls
+   36  cd ../
+   37  ls
+   38  cd /
+   39  cd ~
+   40  pwd
+   41  ls
+   42  whomai
+   43  howami
+   44  whoami
+   45  clear
+   46  presentworkingdirectory
+   47  ~
+   48  cd /
+   49  ls
+   50  cd /home/ubuntu
+   51  cd /
+   52  ls
+   53  cd /boot
+   54  ls
+   55  ls /bin
+   56  ls
+   57  clear
+   58  ls
+   59  ls /
+   60  cd /home
+   61  ls
+   62  sudo mkdir cabox
+   63  ls
+   64  cd /ubuntu
+   65  cd ubuntu/
+   66  ls
+   67  cd home
+   68  ls
+   69  clear
+   70  pwd
+   71  cd workspace/
+   72  pwd
+   73  cd ../
+   74  cd workspace/
+   75  ls 
+   76  mkdir firstName
+   77  mkdir firstname
+   78  ls
+   79  cd first
+   80  ls
+   81  cd first
+   82  cd firstName/
+   83  mkdir lastName
+   84  ls
+   85  cd lastName/
+   86  cd ../
+   87  cd first
+   88  cd firstName
+   89  cd ../
+   90  ls
+   91  cd first
+   92  cd firstName
+   93  mikdir maidenName
+   94  ls
+   95  mkdir maidenName
+   96  ls
+   97  cd lastName/
+   98  cd ../
+   99  cd ..
+  100  ls
+  101  cd first
+  102  cd first/
+  103  cd firstName/
+  104  ls
+  105  cd lastName/
+  106  cd ../
+  107  cd firstName/
+  108  cd lastName
+  109  ls
+  110  touch lname
+  111  ls
+  112  cd lname
+  113  cat lname
+  114  echo Milhouse > lname
+  115  cat lname
+  116  echo Zhou > lanme
+  117  cat lanme
+  118  echo Milhouse >> lname
+  119  cat lanme
+  120  cat lname
+  121  echo Zhou >> lname
+  122  cat lanme
+  123  cat lname
+  124  vi lname
+  125  mv
+  126  ls
+  127  cd ../
+  128  cd lastName/
+  129  ls
+  130  mv lname firstName/
+  131  mv lname ../firsName
+  132  cd ../
+  133  ls
+  134  cd lastName
+  135  ls
+  136  cd ../
+  137  ls
+  138  cd ../
+  139  cd firstName
+  140  ls
+  141  mv firsName ../lastName
+  142  cd lastName
+  143  ls
+  144  cd ../
+  145  ls
+  146  cd last lastName
+  147  cd lastName
+  148  ls
+  149  cp lanme 
+  150  cp help
+  151  cp --help
+  152  mv lanme firstName
+  153  ls firstName
+  154  cd ../
+  155  ls
+  156  ls ..
+  157  cd firstName
+  158  cd lastName
+  159  ls
+  160  mv firstName ../lname
+  161  ls
+  162  cd ../
+  163  cd lastName
+  164  ls
+  165  cd ../
+  166  cd lastName
+  167  touch lname
+  168  ls
+  169  mv lname fistName/
+  170  mv lname firstName/
+  171  mv lname firstNamels
+  172  cd ..
+  173  ls
+  174  cat lname
+  175  cd ..
+  176  cd firstName
+  177  cd lastName
+  178  ls
+  179  touch lname
+  180  cd ../
+  181  ls
+  182  cat lname
+  183  ls
+  184  cp lname maidenName
+  185  cd maidenName
+  186  ls
+  187  cd ../
+  188  cd lastName
+  189  ls
+  190  cd ../
+  191  ls
+  192  cp lname fname
+  193  ls
+  194  cd lastName
+  195  ls
+  196  cd ..
+  197  ls
+  198  mv lname maidenName
+  199  mv lname maidenName/
+  200  ls
+  201  cd maidenName
+  202  ls
+  203  cat lnae
+  204  cat lname
+  205  hello '
+
+
+lname 
+d
+
+
+lname exit
+  206  history
+  207  history >history
+  208  ls
+  209  cat history
+  210  history >history.txt
