@@ -1,0 +1,18 @@
+.jumbotron-fluid {
+    
+    background: url("http://s3.amazonaws.com/barkpost-assets/50+GIFs/19.gif") no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.jumbotron-fluid h1 {
+    
+    margin-top: 40vh;
+    text-align: center;
+    color: pink;
+}
+
+.navbar {
+    
+    margin-bottom: 0;
+}
